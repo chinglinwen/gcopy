@@ -13,6 +13,6 @@ Usage of gcopy:
 ## Examples: 
 
 ```
-        gcopy src dst
-        gcopy src1 src2 dst
+gcopy src dst
+gcopy src1 src2 dst
 ```
